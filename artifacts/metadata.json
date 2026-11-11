@@ -1,0 +1,20 @@
+{
+  "best_model": "Hist Gradient Boosting",
+  "subset": "FD001",
+  "rul_cap": 125,
+  "windows": [
+    5,
+    10,
+    20
+  ],
+  "n_train_engines": 100,
+  "trained_at_utc": "2026-11-10T04:58:46+00:00",
+  "sklearn_version": "1.6.1",
+  "python_version": "3.13.18",
+  "test_metrics": {
+    "test_MAE": 12.584897290299073,
+    "test_RMSE": 17.138846126477073,
+    "test_R2": 0.8299002735660769,
+    "test_NASA_score": 492.196211278447
+  }
+}
